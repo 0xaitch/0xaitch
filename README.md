@@ -1,7 +1,7 @@
 <!-- Profile README for github.com/0xaitch -->
 
 <h1 align="center">hamza khan <code>// 0xaitch</code></h1>
-<p align="center"><b>Business Development · GTM · Sales</b> — Web3, now building with AI agents</p>
+<p align="center"><b>Business Development · GTM · Sales</b> - Web3, now building with AI agents</p>
 
 <p align="center">
   <a href="https://0xaitch.github.io/aitch"><img src="https://img.shields.io/badge/portfolio-0xaitch.github.io-0d1117?style=for-the-badge&logo=gnubash&logoColor=39ff14" alt="Portfolio"></a>
