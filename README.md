@@ -25,6 +25,18 @@ $ experience --web3
 2.5+ years in Web3   ·   $100K+ closed per quarter
 ```
 
+### `$ git log --oneline career`
+
+```diff
++ 2026  Covalent (GoldRush)     BD & GTM: 56% of 152 accounts qualified into priced opps, 2 channel partnerships
++ 2025  CyberScope              BDM: 50+ Web3 projects in pipeline within 2 months
++ 2025  Cubane                  Strategy ops: time-to-hire cut 45–55%, 4x candidate inflow
++ 2025  QuillAudits             BD & sales: 30% → 42% → 45% of total sales, Q1–Q3
++ 2024  Hexaco Alpha            Founder's office: Top 3 pre-TGE mindshare on Kaito
++ 2024  SeedHunter              BDM: 1,500+ KOLs onboarded, 100M+ reach
++ 2023  BuildBear Labs          Ops: Devconnect Istanbul, Devcon Bangkok
+```
+
 ### `$ cat about.md`
 
 I got into Web3 through a Formula Student competition, where I wrote the business plan instead of building the car. Since then I've worked across sales, partnerships and operations, helping projects scale. To me, BD is part curiosity and part clarity.
@@ -41,18 +53,6 @@ If you're building for the long term, let's talk.
 | Automated lead follow-ups | Ecosystem strategy |
 | Social scraping & signals | KOL network building |
 | Internal AI tooling · prompt & agent design | |
-
-### `$ git log --oneline career`
-
-```diff
-+ 2026  Covalent (GoldRush)     BD & GTM: 56% of 152 accounts qualified into priced opps, 2 channel partnerships
-+ 2025  CyberScope              BDM: 50+ Web3 projects in pipeline within 2 months
-+ 2025  Cubane                  Strategy ops: time-to-hire cut 45–55%, 4x candidate inflow
-+ 2025  QuillAudits             BD & sales: 30% → 42% → 45% of total sales, Q1–Q3
-+ 2024  Hexaco Alpha            Founder's office: Top 3 pre-TGE mindshare on Kaito
-+ 2024  SeedHunter              BDM: 1,500+ KOLs onboarded, 100M+ reach
-+ 2023  BuildBear Labs          Ops: Devconnect Istanbul, Devcon Bangkok
-```
 
 ### `$ talks`
 
